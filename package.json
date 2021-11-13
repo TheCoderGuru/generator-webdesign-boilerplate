@@ -1,11 +1,8 @@
 {
   "name": "generator-webdesign-boilerplate",
   "version": "1.0.0",
-  "description": "<br>",
+  "description": "generates a web design template for beginners and advanced web designers to start building their next project",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "dependencies": {
     "ansi-styles": "^4.3.0",
     "balanced-match": "^1.0.2",
@@ -102,7 +99,7 @@
     "type": "git",
     "url": "git+https://github.com/TheCoderGuru/generator-webdesign-boilerplate.git"
   },
-  "keywords": [],
+  "keywords": ["yeoman-generator", "webdesign-boilerplate"],
   "author": "",
   "license": "ISC",
   "bugs": {
