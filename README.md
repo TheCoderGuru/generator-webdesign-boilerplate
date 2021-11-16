@@ -33,4 +33,4 @@ Thats all to it. The files will be generated and you can now code your website t
 
 <br>
 
-**More changes will be made in the upcoming days to the package so stay tuned ⏫
+**More changes will be made in the upcoming days to the package so stay tuned ⏫**
