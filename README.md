@@ -2,6 +2,7 @@
 
 <br>
 
+<a href="https://www.npmjs.com/package/generator-webdesign-boilerplate"><img src="https://nodei.co/npm/generator-webdesign-boilerplate.png?downloadRank=true&downloads=true&downloadRank=true&stars=true" /></a>
 
 Generates the project files for a website using no hassle in addition to providing a starter template design.
 
